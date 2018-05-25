@@ -1,10 +1,12 @@
 .editarea {
-  width: 800px;
+  width: 75%;
   height: 800px;
   overflow: scroll;
   position: relative;
+  margin: auto;
+  padding: 10px;
+  border: 3px green;
 }
-
 .editarea .docimage {
   position: absolute;
 } 
