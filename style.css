@@ -1,6 +1,7 @@
 body {
 	background-image: url('background2.jpg');
 }
+
 .heading {
 	margin: auto;
 	width: 50%;
@@ -8,16 +9,18 @@ body {
 h1 {
 	font-family: 'Marck Script', cursive;
 	margin:auto;
+	color: white;
+	text-align: center;
 }
 
 .editarea {
   width: 75%;
-  height: 800px;
-  overflow: scroll;
+  height: 500px;
+  overflow: hidden;
   position: relative;
   margin: auto;
-  padding: 10px;
-  border: 3px green;
+  background-color: white;
+  border-radius: 50px;
 }
 .editarea .docimage {
   position: absolute;
