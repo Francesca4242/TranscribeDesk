@@ -3,1668 +3,1668 @@ wordDB = [
     "word": "In",
     "left": 25,
     "top": 25,
-    "accuracy": 0.37717413193491334
+    "accuracy": 0.87
   },
   {
     "word": "the",
     "left": 65,
     "top": 25,
-    "accuracy": 0.9958893867700747
+    "accuracy": 0.71
   },
   {
     "word": "name",
     "left": 105,
     "top": 25,
-    "accuracy": 0.5788346559685418
+    "accuracy": 0.07
   },
   {
     "word": "of",
     "left": 145,
     "top": 25,
-    "accuracy": 0.16557291800604745
+    "accuracy": 0.16
   },
   {
     "word": "God",
     "left": 185,
     "top": 25,
-    "accuracy": 0.5076229352786297
+    "accuracy": 0.2
   },
   {
     "word": "Amen,",
     "left": 225,
     "top": 25,
-    "accuracy": 0.06779316595212381
+    "accuracy": 0.07
   },
   {
     "word": "The",
     "left": 265,
     "top": 25,
-    "accuracy": 0.09314041878796808
+    "accuracy": 0.22
   },
   {
     "word": "sixt",
     "left": 305,
     "top": 25,
-    "accuracy": 0.18059168974659623
+    "accuracy": 0.19
   },
   {
     "word": "daye",
     "left": 345,
     "top": 25,
-    "accuracy": 0.7818932166078347
+    "accuracy": 0.58
   },
   {
     "word": "of",
     "left": 385,
     "top": 25,
-    "accuracy": 0.9071674724081149
+    "accuracy": 0.94
   },
   {
     "word": "November",
     "left": 425,
     "top": 25,
-    "accuracy": 0.17068767852716848
+    "accuracy": 0.63
   },
   {
     "word": "in",
     "left": 465,
     "top": 25,
-    "accuracy": 0.430122274771338
+    "accuracy": 0.97
   },
   {
     "word": "the",
     "left": 505,
     "top": 25,
-    "accuracy": 0.011274664178343219
+    "accuracy": 0.55
   },
   {
     "word": "yeare",
     "left": 545,
     "top": 25,
-    "accuracy": 0.8030094831323962
+    "accuracy": 0.46
   },
   {
     "word": "of",
     "left": 585,
     "top": 25,
-    "accuracy": 0.1947272873343917
+    "accuracy": 0.16
   },
   {
     "word": "our",
     "left": 625,
     "top": 25,
-    "accuracy": 0.5373331733803686
+    "accuracy": 0.34
   },
   {
     "word": "Lord",
     "left": 665,
     "top": 25,
-    "accuracy": 0.1622667542396754
+    "accuracy": 0.29
   },
   {
     "word": "God",
     "left": 705,
     "top": 25,
-    "accuracy": 0.5598684625042234
+    "accuracy": 0.04
   },
   {
     "word": "one",
     "left": 745,
     "top": 25,
-    "accuracy": 0.15201744461210542
+    "accuracy": 0.3
   },
   {
     "word": "Thow",
     "left": 785,
     "top": 25,
-    "accuracy": 0.6699182166604984
+    "accuracy": 0.92
   },
   {
     "word": "sand",
     "left": 25,
-    "top": 63,
-    "accuracy": 0.10753927930744056
+    "top": 53.8,
+    "accuracy": 0.38
   },
   {
     "word": "six",
     "left": 65,
-    "top": 63,
-    "accuracy": 0.16585966756770776
+    "top": 53.8,
+    "accuracy": 0.08
   },
   {
     "word": "hundrethe",
     "left": 105,
-    "top": 63,
-    "accuracy": 0.9814604431709892
+    "top": 53.8,
+    "accuracy": 0.89
   },
   {
     "word": "and",
     "left": 145,
-    "top": 63,
-    "accuracy": 0.26486010453011066
+    "top": 53.8,
+    "accuracy": 0.88
   },
   {
     "word": "two,",
     "left": 185,
-    "top": 63,
-    "accuracy": 0.3655062218957499
+    "top": 53.8,
+    "accuracy": 0.34
   },
   {
     "word": "and",
     "left": 225,
-    "top": 63,
-    "accuracy": 0.5333458899966261
+    "top": 53.8,
+    "accuracy": 0.86
   },
   {
     "word": "in",
     "left": 265,
-    "top": 63,
-    "accuracy": 0.5151114896572715
+    "top": 53.8,
+    "accuracy": 0.91
   },
   {
     "word": "the",
     "left": 305,
-    "top": 63,
-    "accuracy": 0.8775925771672004
+    "top": 53.8,
+    "accuracy": 0.44
   },
   {
     "word": "xliiijth",
     "left": 345,
-    "top": 63,
-    "accuracy": 0.2742887849428288
+    "top": 53.8,
+    "accuracy": 0.53
   },
   {
     "word": "yeare",
     "left": 385,
-    "top": 63,
-    "accuracy": 0.3370791596146041
+    "top": 53.8,
+    "accuracy": 0.96
   },
   {
     "word": "of",
     "left": 425,
-    "top": 63,
-    "accuracy": 0.3589112061072457
+    "top": 53.8,
+    "accuracy": 0.78
   },
   {
     "word": "the",
     "left": 465,
-    "top": 63,
-    "accuracy": 0.3983252897692209
+    "top": 53.8,
+    "accuracy": 0.9
   },
   {
     "word": "Raigne",
     "left": 505,
-    "top": 63,
-    "accuracy": 0.8376107931027861
+    "top": 53.8,
+    "accuracy": 0.74
   },
   {
     "word": "of",
     "left": 545,
-    "top": 63,
-    "accuracy": 0.47514462916481737
+    "top": 53.8,
+    "accuracy": 0.82
   },
   {
     "word": "our",
     "left": 585,
-    "top": 63,
-    "accuracy": 0.97446699223697
+    "top": 53.8,
+    "accuracy": 0.75
   },
   {
     "word": "most",
     "left": 625,
-    "top": 63,
-    "accuracy": 0.31276680040344007
+    "top": 53.8,
+    "accuracy": 0.77
   },
   {
     "word": "gratious",
     "left": 665,
-    "top": 63,
-    "accuracy": 0.7406544508722932
+    "top": 53.8,
+    "accuracy": 0.53
   },
   {
     "word": "Sovereigne",
     "left": 25,
-    "top": 101,
-    "accuracy": 0.24277057419194303
+    "top": 82.6,
+    "accuracy": 0.53
   },
   {
     "word": "Ladye",
     "left": 65,
-    "top": 101,
-    "accuracy": 0.6308691935262978
+    "top": 82.6,
+    "accuracy": 0.56
   },
   {
     "word": "Elizabethe,",
     "left": 105,
-    "top": 101,
-    "accuracy": 0.9204819746995128
+    "top": 82.6,
+    "accuracy": 0.65
   },
   {
     "word": "by",
     "left": 145,
-    "top": 101,
-    "accuracy": 0.5626848237618947
+    "top": 82.6,
+    "accuracy": 0.41
   },
   {
     "word": "the",
     "left": 185,
-    "top": 101,
-    "accuracy": 0.9755852612169789
+    "top": 82.6,
+    "accuracy": 0.79
   },
   {
     "word": "grace",
     "left": 225,
-    "top": 101,
-    "accuracy": 0.056076814215418436
+    "top": 82.6,
+    "accuracy": 0.7
   },
   {
     "word": "of",
     "left": 265,
-    "top": 101,
-    "accuracy": 0.08532679253140141
+    "top": 82.6,
+    "accuracy": 0.17
   },
   {
     "word": "god",
     "left": 305,
-    "top": 101,
-    "accuracy": 0.4810361506423142
+    "top": 82.6,
+    "accuracy": 0.96
   },
   {
     "word": "of",
     "left": 345,
-    "top": 101,
-    "accuracy": 0.19226965991416978
+    "top": 82.6,
+    "accuracy": 0.63
   },
   {
     "word": "England",
     "left": 385,
-    "top": 101,
-    "accuracy": 0.27000576792254605
+    "top": 82.6,
+    "accuracy": 0.42
   },
   {
     "word": "France",
     "left": 425,
-    "top": 101,
-    "accuracy": 0.5568183917635374
+    "top": 82.6,
+    "accuracy": 0.59
   },
   {
     "word": "and",
     "left": 465,
-    "top": 101,
-    "accuracy": 0.8701283254732042
+    "top": 82.6,
+    "accuracy": 0.76
   },
   {
     "word": "Ireland",
     "left": 505,
-    "top": 101,
-    "accuracy": 0.4854893771144886
+    "top": 82.6,
+    "accuracy": 0.33
   },
   {
     "word": "Queene",
     "left": 545,
-    "top": 101,
-    "accuracy": 0.375555185885172
+    "top": 82.6,
+    "accuracy": 0.84
   },
   {
     "word": "defendour",
     "left": 25,
-    "top": 139,
-    "accuracy": 0.3057988345896694
+    "top": 111.4,
+    "accuracy": 0.56
   },
   {
     "word": "of",
     "left": 65,
-    "top": 139,
-    "accuracy": 0.4212169036041191
+    "top": 111.4,
+    "accuracy": 0.99
   },
   {
     "word": "the",
     "left": 105,
-    "top": 139,
-    "accuracy": 0.040116068536750094
+    "top": 111.4,
+    "accuracy": 0.23
   },
   {
     "word": "faithe",
     "left": 145,
-    "top": 139,
-    "accuracy": 0.9401481583655156
+    "top": 111.4,
+    "accuracy": 0.21
   },
   {
     "word": "etcetera",
     "left": 185,
-    "top": 139,
-    "accuracy": 0.5097804540885271
+    "top": 111.4,
+    "accuracy": 0.02
   },
   {
     "word": "I",
     "left": 225,
-    "top": 139,
-    "accuracy": 0.7376519203559568
+    "top": 111.4,
+    "accuracy": 0.06
   },
   {
     "word": "Henry",
     "left": 265,
-    "top": 139,
-    "accuracy": 0.318162012931857
+    "top": 111.4,
+    "accuracy": 0.79
   },
   {
     "word": "Weston",
     "left": 305,
-    "top": 139,
-    "accuracy": 0.10753291421442523
+    "top": 111.4,
+    "accuracy": 0.26
   },
   {
     "word": "the",
     "left": 345,
-    "top": 139,
-    "accuracy": 0.16026513205691906
+    "top": 111.4,
+    "accuracy": 0.94
   },
   {
     "word": "elder",
     "left": 385,
-    "top": 139,
-    "accuracy": 0.4522288319174652
+    "top": 111.4,
+    "accuracy": 0.59
   },
   {
     "word": "of",
     "left": 425,
-    "top": 139,
-    "accuracy": 0.29059553030999474
+    "top": 111.4,
+    "accuracy": 0.61
   },
   {
     "word": "Burwashe",
     "left": 465,
-    "top": 139,
-    "accuracy": 0.8049236716212924
+    "top": 111.4,
+    "accuracy": 0.09
   },
   {
     "word": "in",
     "left": 505,
-    "top": 139,
-    "accuracy": 0.031571205451914164
+    "top": 111.4,
+    "accuracy": 0.04
   },
   {
     "word": "the",
     "left": 545,
-    "top": 139,
-    "accuracy": 0.8749971729097723
+    "top": 111.4,
+    "accuracy": 0.4
   },
   {
     "word": "Countye",
     "left": 585,
-    "top": 139,
-    "accuracy": 0.5833264307091048
+    "top": 111.4,
+    "accuracy": 0.84
   },
   {
     "word": "of",
     "left": 625,
-    "top": 139,
-    "accuracy": 0.8789036461724877
+    "top": 111.4,
+    "accuracy": 0.7
   },
   {
     "word": "Sussex",
     "left": 665,
-    "top": 139,
-    "accuracy": 0.5824423074116154
+    "top": 111.4,
+    "accuracy": 0.21
   },
   {
     "word": "yeoman",
     "left": 25,
-    "top": 177,
-    "accuracy": 0.31499902732243656
+    "top": 140.2,
+    "accuracy": 0.22
   },
   {
     "word": "beinge",
     "left": 65,
-    "top": 177,
-    "accuracy": 0.20986129771846396
+    "top": 140.2,
+    "accuracy": 0.7
   },
   {
     "word": "of",
     "left": 105,
-    "top": 177,
-    "accuracy": 0.3519124305332819
+    "top": 140.2,
+    "accuracy": 0.27
   },
   {
     "word": "good",
     "left": 145,
-    "top": 177,
-    "accuracy": 0.4204578717358247
+    "top": 140.2,
+    "accuracy": 0.18
   },
   {
     "word": "and",
     "left": 185,
-    "top": 177,
-    "accuracy": 0.4848885325432901
+    "top": 140.2,
+    "accuracy": 0.44
   },
   {
     "word": "perfect",
     "left": 225,
-    "top": 177,
-    "accuracy": 0.9601211695917979
+    "top": 140.2,
+    "accuracy": 0.06
   },
   {
     "word": "memorye",
     "left": 265,
-    "top": 177,
-    "accuracy": 0.5695077115551948
+    "top": 140.2,
+    "accuracy": 0.67
   },
   {
     "word": "(praysed",
     "left": 305,
-    "top": 177,
-    "accuracy": 0.4116147502878249
+    "top": 140.2,
+    "accuracy": 0.59
   },
   {
     "word": "be",
     "left": 345,
-    "top": 177,
-    "accuracy": 0.5822834012790368
+    "top": 140.2,
+    "accuracy": 0
   },
   {
     "word": "god)",
     "left": 385,
-    "top": 177,
-    "accuracy": 0.3281546647057494
+    "top": 140.2,
+    "accuracy": 0.49
   },
   {
     "word": "do",
     "left": 425,
-    "top": 177,
-    "accuracy": 0.44037007474049705
+    "top": 140.2,
+    "accuracy": 0.58
   },
   {
     "word": "ordeine",
     "left": 465,
-    "top": 177,
-    "accuracy": 0.007099554178644496
+    "top": 140.2,
+    "accuracy": 0.22
   },
   {
     "word": "and",
     "left": 505,
-    "top": 177,
-    "accuracy": 0.44193519828936045
+    "top": 140.2,
+    "accuracy": 0.54
   },
   {
     "word": "make",
     "left": 545,
-    "top": 177,
-    "accuracy": 0.7584616905943244
+    "top": 140.2,
+    "accuracy": 0.38
   },
   {
     "word": "this",
     "left": 585,
-    "top": 177,
-    "accuracy": 0.8872923161539881
+    "top": 140.2,
+    "accuracy": 0.83
   },
   {
     "word": "my",
     "left": 25,
-    "top": 215,
-    "accuracy": 0.29322616138839797
+    "top": 169,
+    "accuracy": 0.18
   },
   {
     "word": "last",
     "left": 65,
-    "top": 215,
-    "accuracy": 0.9582980291387904
+    "top": 169,
+    "accuracy": 0.53
   },
   {
     "word": "will",
     "left": 105,
-    "top": 215,
-    "accuracy": 0.765290845725306
+    "top": 169,
+    "accuracy": 0.33
   },
   {
     "word": "and",
     "left": 145,
-    "top": 215,
-    "accuracy": 0.43146447964879275
+    "top": 169,
+    "accuracy": 0.7
   },
   {
     "word": "testament",
     "left": 185,
-    "top": 215,
-    "accuracy": 0.7423669159579034
+    "top": 169,
+    "accuracy": 0.03
   },
   {
     "word": "in",
     "left": 225,
-    "top": 215,
-    "accuracy": 0.6899138827327453
+    "top": 169,
+    "accuracy": 0.96
   },
   {
     "word": "manner",
     "left": 265,
-    "top": 215,
-    "accuracy": 0.8606655227083113
+    "top": 169,
+    "accuracy": 0.11
   },
   {
     "word": "and",
     "left": 305,
-    "top": 215,
-    "accuracy": 0.8445570224511423
+    "top": 169,
+    "accuracy": 0
   },
   {
     "word": "forme",
     "left": 345,
-    "top": 215,
-    "accuracy": 0.7428368009592017
+    "top": 169,
+    "accuracy": 0.23
   },
   {
     "word": "followinge.",
     "left": 385,
-    "top": 215,
-    "accuracy": 0.9191185188457196
+    "top": 169,
+    "accuracy": 0.09
   },
   {
     "word": "First",
     "left": 425,
-    "top": 215,
-    "accuracy": 0.22891886933448213
+    "top": 169,
+    "accuracy": 0.65
   },
   {
     "word": "and",
     "left": 465,
-    "top": 215,
-    "accuracy": 0.34708225136435233
+    "top": 169,
+    "accuracy": 0.99
   },
   {
     "word": "principallye",
     "left": 505,
-    "top": 215,
-    "accuracy": 0.4270770911606754
+    "top": 169,
+    "accuracy": 0.45
   },
   {
     "word": "I",
     "left": 545,
-    "top": 215,
-    "accuracy": 0.32814099359199034
+    "top": 169,
+    "accuracy": 0.06
   },
   {
     "word": "",
     "left": 585,
-    "top": 215,
-    "accuracy": 0.9058128621432242
+    "top": 169,
+    "accuracy": 0.84
   },
   {
     "word": "comende",
     "left": 25,
-    "top": 253,
-    "accuracy": 0.22966701920739951
+    "top": 197.8,
+    "accuracy": 0.85
   },
   {
     "word": "my",
     "left": 65,
-    "top": 253,
-    "accuracy": 0.07613524792490822
+    "top": 197.8,
+    "accuracy": 0.58
   },
   {
     "word": "soule",
     "left": 105,
-    "top": 253,
-    "accuracy": 0.518886063052391
+    "top": 197.8,
+    "accuracy": 0.28
   },
   {
     "word": "into",
     "left": 145,
-    "top": 253,
-    "accuracy": 0.1466338273602863
+    "top": 197.8,
+    "accuracy": 0.8
   },
   {
     "word": "the",
     "left": 185,
-    "top": 253,
-    "accuracy": 0.557160247826608
+    "top": 197.8,
+    "accuracy": 0.58
   },
   {
     "word": "handes",
     "left": 225,
-    "top": 253,
-    "accuracy": 0.5421114699161944
+    "top": 197.8,
+    "accuracy": 0.21
   },
   {
     "word": "of",
     "left": 265,
-    "top": 253,
-    "accuracy": 0.2558122450089748
+    "top": 197.8,
+    "accuracy": 0.95
   },
   {
     "word": "Allmightie",
     "left": 305,
-    "top": 253,
-    "accuracy": 0.9571814824006222
+    "top": 197.8,
+    "accuracy": 0.3
   },
   {
     "word": "god,",
     "left": 345,
-    "top": 253,
-    "accuracy": 0.4004196291066928
+    "top": 197.8,
+    "accuracy": 0.88
   },
   {
     "word": "and",
     "left": 385,
-    "top": 253,
-    "accuracy": 0.4660666025662874
+    "top": 197.8,
+    "accuracy": 0.87
   },
   {
     "word": "my",
     "left": 425,
-    "top": 253,
-    "accuracy": 0.5108075723050229
+    "top": 197.8,
+    "accuracy": 0.49
   },
   {
     "word": "bodye",
     "left": 465,
-    "top": 253,
-    "accuracy": 0.4120924919161413
+    "top": 197.8,
+    "accuracy": 0.07
   },
   {
     "word": "to",
     "left": 505,
-    "top": 253,
-    "accuracy": 0.8015732706272543
+    "top": 197.8,
+    "accuracy": 0.98
   },
   {
     "word": "the",
     "left": 545,
-    "top": 253,
-    "accuracy": 0.11564019029802308
+    "top": 197.8,
+    "accuracy": 0.39
   },
   {
     "word": "earthe",
     "left": 585,
-    "top": 253,
-    "accuracy": 0.8813156640959492
+    "top": 197.8,
+    "accuracy": 0.33
   },
   {
     "word": "wherof",
     "left": 625,
-    "top": 253,
-    "accuracy": 0.9339270302170917
+    "top": 197.8,
+    "accuracy": 0.57
   },
   {
     "word": "it",
     "left": 25,
-    "top": 291,
-    "accuracy": 0.9975366767064022
+    "top": 226.6,
+    "accuracy": 0.82
   },
   {
     "word": "is",
     "left": 65,
-    "top": 291,
-    "accuracy": 0.670970605205037
+    "top": 226.6,
+    "accuracy": 0.83
   },
   {
     "word": "made.",
     "left": 105,
-    "top": 291,
-    "accuracy": 0.11357789417784336
+    "top": 226.6,
+    "accuracy": 0.99
   },
   {
     "word": "Item",
     "left": 145,
-    "top": 291,
-    "accuracy": 0.7675765922484024
+    "top": 226.6,
+    "accuracy": 0.5
   },
   {
     "word": "I",
     "left": 185,
-    "top": 291,
-    "accuracy": 0.004945230908680376
+    "top": 226.6,
+    "accuracy": 0.32
   },
   {
     "word": "give",
     "left": 225,
-    "top": 291,
-    "accuracy": 0.03350880186846372
+    "top": 226.6,
+    "accuracy": 0.84
   },
   {
     "word": "and",
     "left": 265,
-    "top": 291,
-    "accuracy": 0.6391806175285792
+    "top": 226.6,
+    "accuracy": 0.81
   },
   {
     "word": "bequeath",
     "left": 305,
-    "top": 291,
-    "accuracy": 0.1833492299195647
+    "top": 226.6,
+    "accuracy": 0.08
   },
   {
     "word": "unto",
     "left": 345,
-    "top": 291,
-    "accuracy": 0.9850354717302752
+    "top": 226.6,
+    "accuracy": 0.62
   },
   {
     "word": "Henry",
     "left": 385,
-    "top": 291,
-    "accuracy": 0.13900847427673302
+    "top": 226.6,
+    "accuracy": 0.84
   },
   {
     "word": "Weston",
     "left": 425,
-    "top": 291,
-    "accuracy": 0.5639599979361969
+    "top": 226.6,
+    "accuracy": 0.13
   },
   {
     "word": "my",
     "left": 465,
-    "top": 291,
-    "accuracy": 0.47764575334161563
+    "top": 226.6,
+    "accuracy": 0.62
   },
   {
     "word": "sonne,",
     "left": 505,
-    "top": 291,
-    "accuracy": 0.45324534558824614
+    "top": 226.6,
+    "accuracy": 0.64
   },
   {
     "word": "that",
     "left": 545,
-    "top": 291,
-    "accuracy": 0.09041709883980853
+    "top": 226.6,
+    "accuracy": 0.05
   },
   {
     "word": "my",
     "left": 585,
-    "top": 291,
-    "accuracy": 0.9946532479356207
+    "top": 226.6,
+    "accuracy": 0.13
   },
   {
     "word": "bedd",
     "left": 625,
-    "top": 291,
-    "accuracy": 0.2908666869608125
+    "top": 226.6,
+    "accuracy": 0.68
   },
   {
     "word": "",
     "left": 665,
-    "top": 291,
-    "accuracy": 0.5447247340712449
+    "top": 226.6,
+    "accuracy": 0.16
   },
   {
     "word": "wheron",
     "left": 25,
-    "top": 329,
-    "accuracy": 0.700824807239248
+    "top": 255.4,
+    "accuracy": 0.77
   },
   {
     "word": "I",
     "left": 65,
-    "top": 329,
-    "accuracy": 0.20387315541108397
+    "top": 255.4,
+    "accuracy": 0.24
   },
   {
     "word": "shall",
     "left": 105,
-    "top": 329,
-    "accuracy": 0.21702321067824681
+    "top": 255.4,
+    "accuracy": 0.43
   },
   {
     "word": "lye,",
     "left": 145,
-    "top": 329,
-    "accuracy": 0.4522302064902264
+    "top": 255.4,
+    "accuracy": 0.65
   },
   {
     "word": "at",
     "left": 185,
-    "top": 329,
-    "accuracy": 0.48738840145291706
+    "top": 255.4,
+    "accuracy": 0.05
   },
   {
     "word": "the",
     "left": 225,
-    "top": 329,
-    "accuracy": 0.9318329198676607
+    "top": 255.4,
+    "accuracy": 0.45
   },
   {
     "word": "tyme",
     "left": 265,
-    "top": 329,
-    "accuracy": 0.5353207633238102
+    "top": 255.4,
+    "accuracy": 0.17
   },
   {
     "word": "of",
     "left": 305,
-    "top": 329,
-    "accuracy": 0.6792505796129029
+    "top": 255.4,
+    "accuracy": 0.92
   },
   {
     "word": "my",
     "left": 345,
-    "top": 329,
-    "accuracy": 0.09634982849318341
+    "top": 255.4,
+    "accuracy": 0.91
   },
   {
     "word": "deathe,",
     "left": 385,
-    "top": 329,
-    "accuracy": 0.27595850386094023
+    "top": 255.4,
+    "accuracy": 0.65
   },
   {
     "word": "with",
     "left": 425,
-    "top": 329,
-    "accuracy": 0.12218583263868887
+    "top": 255.4,
+    "accuracy": 0.51
   },
   {
     "word": "all",
     "left": 465,
-    "top": 329,
-    "accuracy": 0.09732314847845869
+    "top": 255.4,
+    "accuracy": 0.46
   },
   {
     "word": "that",
     "left": 505,
-    "top": 329,
-    "accuracy": 0.9553712864713546
+    "top": 255.4,
+    "accuracy": 0.6
   },
   {
     "word": "belongeth",
     "left": 545,
-    "top": 329,
-    "accuracy": 0.18329504909241034
+    "top": 255.4,
+    "accuracy": 0.42
   },
   {
     "word": "unto",
     "left": 585,
-    "top": 329,
-    "accuracy": 0.32741022515401297
+    "top": 255.4,
+    "accuracy": 0.06
   },
   {
     "word": "it",
     "left": 625,
-    "top": 329,
-    "accuracy": 0.4354162470117122
+    "top": 255.4,
+    "accuracy": 0.39
   },
   {
     "word": "as",
     "left": 665,
-    "top": 329,
-    "accuracy": 0.6011009792712385
+    "top": 255.4,
+    "accuracy": 0.44
   },
   {
     "word": "it",
     "left": 25,
-    "top": 367,
-    "accuracy": 0.7878592732495271
+    "top": 284.2,
+    "accuracy": 0.82
   },
   {
     "word": "shall",
     "left": 65,
-    "top": 367,
-    "accuracy": 0.8989783320764873
+    "top": 284.2,
+    "accuracy": 0.36
   },
   {
     "word": "be",
     "left": 105,
-    "top": 367,
-    "accuracy": 0.5843820011952952
+    "top": 284.2,
+    "accuracy": 0.85
   },
   {
     "word": "then",
     "left": 145,
-    "top": 367,
-    "accuracy": 0.891706845857237
+    "top": 284.2,
+    "accuracy": 0.99
   },
   {
     "word": "furnished",
     "left": 185,
-    "top": 367,
-    "accuracy": 0.7586079317080034
+    "top": 284.2,
+    "accuracy": 0.46
   },
   {
     "word": "to",
     "left": 225,
-    "top": 367,
-    "accuracy": 0.9721217055466655
+    "top": 284.2,
+    "accuracy": 0.72
   },
   {
     "word": "have",
     "left": 265,
-    "top": 367,
-    "accuracy": 0.03889325896368634
+    "top": 284.2,
+    "accuracy": 0.87
   },
   {
     "word": "and",
     "left": 305,
-    "top": 367,
-    "accuracy": 0.34341304382027094
+    "top": 284.2,
+    "accuracy": 0.7
   },
   {
     "word": "take",
     "left": 345,
-    "top": 367,
-    "accuracy": 0.1485624292370733
+    "top": 284.2,
+    "accuracy": 0.77
   },
   {
     "word": "the",
     "left": 385,
-    "top": 367,
-    "accuracy": 0.31364601367868405
+    "top": 284.2,
+    "accuracy": 0.09
   },
   {
     "word": "same",
     "left": 425,
-    "top": 367,
-    "accuracy": 0.3171560845858239
+    "top": 284.2,
+    "accuracy": 0.21
   },
   {
     "word": "imediatlie",
     "left": 465,
-    "top": 367,
-    "accuracy": 0.7126932943415727
+    "top": 284.2,
+    "accuracy": 0.68
   },
   {
     "word": "after",
     "left": 505,
-    "top": 367,
-    "accuracy": 0.28905900142588115
+    "top": 284.2,
+    "accuracy": 0.1
   },
   {
     "word": "the",
     "left": 545,
-    "top": 367,
-    "accuracy": 0.6332920701338889
+    "top": 284.2,
+    "accuracy": 0.05
   },
   {
     "word": "decease",
     "left": 585,
-    "top": 367,
-    "accuracy": 0.8642688389043904
+    "top": 284.2,
+    "accuracy": 0.76
   },
   {
     "word": "of",
     "left": 25,
-    "top": 405,
-    "accuracy": 0.975324005380575
+    "top": 313,
+    "accuracy": 0.2
   },
   {
     "word": "me",
     "left": 65,
-    "top": 405,
-    "accuracy": 0.3473179016825301
+    "top": 313,
+    "accuracy": 0.04
   },
   {
     "word": "the",
     "left": 105,
-    "top": 405,
-    "accuracy": 0.28497174851732976
+    "top": 313,
+    "accuracy": 0.19
   },
   {
     "word": "said",
     "left": 145,
-    "top": 405,
-    "accuracy": 0.8250429514147521
+    "top": 313,
+    "accuracy": 0.67
   },
   {
     "word": "Henry",
     "left": 185,
-    "top": 405,
-    "accuracy": 0.3090614965794385
+    "top": 313,
+    "accuracy": 0.56
   },
   {
     "word": "Weston",
     "left": 225,
-    "top": 405,
-    "accuracy": 0.927525689313718
+    "top": 313,
+    "accuracy": 0.57
   },
   {
     "word": "and",
     "left": 265,
-    "top": 405,
-    "accuracy": 0.9843427375840414
+    "top": 313,
+    "accuracy": 0.17
   },
   {
     "word": "Alice",
     "left": 305,
-    "top": 405,
-    "accuracy": 0.1779145145935248
+    "top": 313,
+    "accuracy": 0.64
   },
   {
     "word": "my",
     "left": 345,
-    "top": 405,
-    "accuracy": 0.6182774132977771
+    "top": 313,
+    "accuracy": 0.34
   },
   {
     "word": "wife",
     "left": 385,
-    "top": 405,
-    "accuracy": 0.08333487830672315
+    "top": 313,
+    "accuracy": 0.16
   },
   {
     "word": "or",
     "left": 425,
-    "top": 405,
-    "accuracy": 0.14798494269735962
+    "top": 313,
+    "accuracy": 0.88
   },
   {
     "word": "the",
     "left": 465,
-    "top": 405,
-    "accuracy": 0.46521745067339615
+    "top": 313,
+    "accuracy": 0.09
   },
   {
     "word": "survivour",
     "left": 505,
-    "top": 405,
-    "accuracy": 0.2572859431115937
+    "top": 313,
+    "accuracy": 0.78
   },
   {
     "word": "or",
     "left": 545,
-    "top": 405,
-    "accuracy": 0.0963955256725677
+    "top": 313,
+    "accuracy": 0.57
   },
   {
     "word": "longer",
     "left": 585,
-    "top": 405,
-    "accuracy": 0.5292149443686469
+    "top": 313,
+    "accuracy": 0.08
   },
   {
     "word": "liver",
     "left": 625,
-    "top": 405,
-    "accuracy": 0.2616676354993783
+    "top": 313,
+    "accuracy": 0.57
   },
   {
     "word": "of",
     "left": 665,
-    "top": 405,
-    "accuracy": 0.41701242961004525
+    "top": 313,
+    "accuracy": 0.1
   },
   {
     "word": "us.",
     "left": 25,
-    "top": 443,
-    "accuracy": 0.572778305051961
+    "top": 341.8,
+    "accuracy": 0.43
   },
   {
     "word": "",
     "left": 65,
-    "top": 443,
-    "accuracy": 0.24707481003439735
+    "top": 341.8,
+    "accuracy": 0.58
   },
   {
     "word": "Item",
     "left": 105,
-    "top": 443,
-    "accuracy": 0.8712257487042914
+    "top": 341.8,
+    "accuracy": 0.44
   },
   {
     "word": "I",
     "left": 145,
-    "top": 443,
-    "accuracy": 0.6149705642591354
+    "top": 341.8,
+    "accuracy": 0.81
   },
   {
     "word": "give",
     "left": 185,
-    "top": 443,
-    "accuracy": 0.24668794859010434
+    "top": 341.8,
+    "accuracy": 0.91
   },
   {
     "word": "and",
     "left": 225,
-    "top": 443,
-    "accuracy": 0.6995085415124889
+    "top": 341.8,
+    "accuracy": 0.61
   },
   {
     "word": "bequeath",
     "left": 265,
-    "top": 443,
-    "accuracy": 0.6601435759745578
+    "top": 341.8,
+    "accuracy": 0.62
   },
   {
     "word": "to",
     "left": 305,
-    "top": 443,
-    "accuracy": 0.08225800121526894
+    "top": 341.8,
+    "accuracy": 0.72
   },
   {
     "word": "William",
     "left": 345,
-    "top": 443,
-    "accuracy": 0.542690169310984
+    "top": 341.8,
+    "accuracy": 0.36
   },
   {
     "word": "Weston",
     "left": 385,
-    "top": 443,
-    "accuracy": 0.678078873483779
+    "top": 341.8,
+    "accuracy": 0.85
   },
   {
     "word": "my",
     "left": 425,
-    "top": 443,
-    "accuracy": 0.8074849632146455
+    "top": 341.8,
+    "accuracy": 0.65
   },
   {
     "word": "sone,",
     "left": 465,
-    "top": 443,
-    "accuracy": 0.24567604432560164
+    "top": 341.8,
+    "accuracy": 0.12
   },
   {
     "word": "one",
     "left": 505,
-    "top": 443,
-    "accuracy": 0.7942673742112707
+    "top": 341.8,
+    "accuracy": 0.44
   },
   {
     "word": "fetherbed",
     "left": 545,
-    "top": 443,
-    "accuracy": 0.7816220801364662
+    "top": 341.8,
+    "accuracy": 0.36
   },
   {
     "word": "with",
     "left": 585,
-    "top": 443,
-    "accuracy": 0.31185474025507176
+    "top": 341.8,
+    "accuracy": 0.68
   },
   {
     "word": "all",
     "left": 625,
-    "top": 443,
-    "accuracy": 0.6425850712982974
+    "top": 341.8,
+    "accuracy": 0.54
   },
   {
     "word": "that",
     "left": 665,
-    "top": 443,
-    "accuracy": 0.8525237407450328
+    "top": 341.8,
+    "accuracy": 0.08
   },
   {
     "word": "",
     "left": 705,
-    "top": 443,
-    "accuracy": 0.0071034773882701074
+    "top": 341.8,
+    "accuracy": 0.24
   },
   {
     "word": "belongeth",
     "left": 25,
-    "top": 481,
-    "accuracy": 0.20909928897914787
+    "top": 370.6,
+    "accuracy": 0.38
   },
   {
     "word": "to",
     "left": 65,
-    "top": 481,
-    "accuracy": 0.26759595359175226
+    "top": 370.6,
+    "accuracy": 0.18
   },
   {
     "word": "it",
     "left": 105,
-    "top": 481,
-    "accuracy": 0.634362273320441
+    "top": 370.6,
+    "accuracy": 0.08
   },
   {
     "word": "standing",
     "left": 145,
-    "top": 481,
-    "accuracy": 0.9929289397592764
+    "top": 370.6,
+    "accuracy": 0.15
   },
   {
     "word": "in",
     "left": 185,
-    "top": 481,
-    "accuracy": 0.26219416788903405
+    "top": 370.6,
+    "accuracy": 0.33
   },
   {
     "word": "the",
     "left": 225,
-    "top": 481,
-    "accuracy": 0.41136325733685153
+    "top": 370.6,
+    "accuracy": 0.82
   },
   {
     "word": "Inner",
     "left": 265,
-    "top": 481,
-    "accuracy": 0.4411382153248642
+    "top": 370.6,
+    "accuracy": 0.98
   },
   {
     "word": "Chamber",
     "left": 305,
-    "top": 481,
-    "accuracy": 0.37360962155831534
+    "top": 370.6,
+    "accuracy": 0.2
   },
   {
     "word": "to",
     "left": 345,
-    "top": 481,
-    "accuracy": 0.8154541102277899
+    "top": 370.6,
+    "accuracy": 0.11
   },
   {
     "word": "have",
     "left": 385,
-    "top": 481,
-    "accuracy": 0.10798653038180572
+    "top": 370.6,
+    "accuracy": 0.87
   },
   {
     "word": "and",
     "left": 425,
-    "top": 481,
-    "accuracy": 0.8640187305422504
+    "top": 370.6,
+    "accuracy": 0.81
   },
   {
     "word": "take",
     "left": 465,
-    "top": 481,
-    "accuracy": 0.5584131710544828
+    "top": 370.6,
+    "accuracy": 0.82
   },
   {
     "word": "the",
     "left": 505,
-    "top": 481,
-    "accuracy": 0.22147182656396525
+    "top": 370.6,
+    "accuracy": 0.34
   },
   {
     "word": "same",
     "left": 545,
-    "top": 481,
-    "accuracy": 0.40769490382878093
+    "top": 370.6,
+    "accuracy": 0.93
   },
   {
     "word": "imediatly",
     "left": 585,
-    "top": 481,
-    "accuracy": 0.45942697001743404
+    "top": 370.6,
+    "accuracy": 0.54
   },
   {
     "word": "after",
     "left": 25,
-    "top": 519,
-    "accuracy": 0.4189106959147908
+    "top": 399.40000000000003,
+    "accuracy": 0.04
   },
   {
     "word": "the",
     "left": 65,
-    "top": 519,
-    "accuracy": 0.5363286343934421
+    "top": 399.40000000000003,
+    "accuracy": 0.66
   },
   {
     "word": "dicease",
     "left": 105,
-    "top": 519,
-    "accuracy": 0.5497730605121216
+    "top": 399.40000000000003,
+    "accuracy": 0.85
   },
   {
     "word": "of",
     "left": 145,
-    "top": 519,
-    "accuracy": 0.839917690693847
+    "top": 399.40000000000003,
+    "accuracy": 0.63
   },
   {
     "word": "me",
     "left": 185,
-    "top": 519,
-    "accuracy": 0.5466807587461486
+    "top": 399.40000000000003,
+    "accuracy": 0.7
   },
   {
     "word": "the",
     "left": 225,
-    "top": 519,
-    "accuracy": 0.7885686938634382
+    "top": 399.40000000000003,
+    "accuracy": 0.61
   },
   {
     "word": "said",
     "left": 265,
-    "top": 519,
-    "accuracy": 0.9139189314844414
+    "top": 399.40000000000003,
+    "accuracy": 0.77
   },
   {
     "word": "Henry",
     "left": 305,
-    "top": 519,
-    "accuracy": 0.36190781277530704
+    "top": 399.40000000000003,
+    "accuracy": 0.58
   },
   {
     "word": "Weston",
     "left": 345,
-    "top": 519,
-    "accuracy": 0.506610299019427
+    "top": 399.40000000000003,
+    "accuracy": 0.28
   },
   {
     "word": "the",
     "left": 385,
-    "top": 519,
-    "accuracy": 0.49371583407453623
+    "top": 399.40000000000003,
+    "accuracy": 0.84
   },
   {
     "word": "father",
     "left": 425,
-    "top": 519,
-    "accuracy": 0.679699334674922
+    "top": 399.40000000000003,
+    "accuracy": 0.65
   },
   {
     "word": "and",
     "left": 465,
-    "top": 519,
-    "accuracy": 0.7374928680855488
+    "top": 399.40000000000003,
+    "accuracy": 0.22
   },
   {
     "word": "Alice",
     "left": 505,
-    "top": 519,
-    "accuracy": 0.8083408772423364
+    "top": 399.40000000000003,
+    "accuracy": 0.54
   },
   {
     "word": "my",
     "left": 545,
-    "top": 519,
-    "accuracy": 0.010212174619659287
+    "top": 399.40000000000003,
+    "accuracy": 0.75
   },
   {
     "word": "wife",
     "left": 585,
-    "top": 519,
-    "accuracy": 0.5651742951844878
+    "top": 399.40000000000003,
+    "accuracy": 0.19
   },
   {
     "word": "and",
     "left": 625,
-    "top": 519,
-    "accuracy": 0.9449926114793354
+    "top": 399.40000000000003,
+    "accuracy": 0.41
   },
   {
     "word": "the",
     "left": 25,
-    "top": 557,
-    "accuracy": 0.5497797902031911
+    "top": 428.2,
+    "accuracy": 0.72
   },
   {
     "word": "longer",
     "left": 65,
-    "top": 557,
-    "accuracy": 0.19983142873013104
+    "top": 428.2,
+    "accuracy": 0.84
   },
   {
     "word": "liver",
     "left": 105,
-    "top": 557,
-    "accuracy": 0.003706140626800858
+    "top": 428.2,
+    "accuracy": 0.37
   },
   {
     "word": "of",
     "left": 145,
-    "top": 557,
-    "accuracy": 0.5256722279581809
+    "top": 428.2,
+    "accuracy": 0.12
   },
   {
     "word": "us.",
     "left": 185,
-    "top": 557,
-    "accuracy": 0.6429743321950128
+    "top": 428.2,
+    "accuracy": 0.47
   },
   {
     "word": "Item",
     "left": 225,
-    "top": 557,
-    "accuracy": 0.9172051620515651
+    "top": 428.2,
+    "accuracy": 0.15
   },
   {
     "word": "I",
     "left": 265,
-    "top": 557,
-    "accuracy": 0.5941787415649675
+    "top": 428.2,
+    "accuracy": 0.63
   },
   {
     "word": "give",
     "left": 305,
-    "top": 557,
-    "accuracy": 0.8508113233476173
+    "top": 428.2,
+    "accuracy": 0.73
   },
   {
     "word": "and",
     "left": 345,
-    "top": 557,
-    "accuracy": 0.9897714533844992
+    "top": 428.2,
+    "accuracy": 0
   },
   {
     "word": "bequeath",
     "left": 385,
-    "top": 557,
-    "accuracy": 0.8494236792111818
+    "top": 428.2,
+    "accuracy": 0.7
   },
   {
     "word": "unto",
     "left": 425,
-    "top": 557,
-    "accuracy": 0.017993937793081338
+    "top": 428.2,
+    "accuracy": 0.99
   },
   {
     "word": "John",
     "left": 465,
-    "top": 557,
-    "accuracy": 0.44559605703244576
+    "top": 428.2,
+    "accuracy": 0.14
   },
   {
     "word": "Weston",
     "left": 505,
-    "top": 557,
-    "accuracy": 0.21783969335033104
+    "top": 428.2,
+    "accuracy": 0.94
   },
   {
     "word": "my",
     "left": 545,
-    "top": 557,
-    "accuracy": 0.3511938390719662
+    "top": 428.2,
+    "accuracy": 0.21
   },
   {
     "word": "sone",
     "left": 585,
-    "top": 557,
-    "accuracy": 0.7502920155155561
+    "top": 428.2,
+    "accuracy": 0.42
   },
   {
     "word": "one",
     "left": 625,
-    "top": 557,
-    "accuracy": 0.7874390522845132
+    "top": 428.2,
+    "accuracy": 0.65
   },
   {
     "word": "",
     "left": 665,
-    "top": 557,
-    "accuracy": 0.06676864330296617
+    "top": 428.2,
+    "accuracy": 0.08
   },
   {
     "word": "Bedd",
     "left": 25,
-    "top": 595,
-    "accuracy": 0.2512465716707579
+    "top": 457,
+    "accuracy": 0.72
   },
   {
     "word": "standinge",
     "left": 65,
-    "top": 595,
-    "accuracy": 0.947686638422905
+    "top": 457,
+    "accuracy": 0.49
   },
   {
     "word": "in",
     "left": 105,
-    "top": 595,
-    "accuracy": 0.7614638715058129
+    "top": 457,
+    "accuracy": 0.04
   },
   {
     "word": "the",
     "left": 145,
-    "top": 595,
-    "accuracy": 0.4809720142817777
+    "top": 457,
+    "accuracy": 0.89
   },
   {
     "word": "Kitchin",
     "left": 185,
-    "top": 595,
-    "accuracy": 0.34038965483050654
+    "top": 457,
+    "accuracy": 0.49
   },
   {
     "word": "Chamber,",
     "left": 225,
-    "top": 595,
-    "accuracy": 0.459438131185373
+    "top": 457,
+    "accuracy": 0.51
   },
   {
     "word": "with",
     "left": 265,
-    "top": 595,
-    "accuracy": 0.7356051966922741
+    "top": 457,
+    "accuracy": 0.02
   },
   {
     "word": "all",
     "left": 305,
-    "top": 595,
-    "accuracy": 0.49798283313937497
+    "top": 457,
+    "accuracy": 0.57
   },
   {
     "word": "that",
     "left": 345,
-    "top": 595,
-    "accuracy": 0.02806099762448855
+    "top": 457,
+    "accuracy": 0.08
   },
   {
     "word": "belongeth",
     "left": 385,
-    "top": 595,
-    "accuracy": 0.04088371975657612
+    "top": 457,
+    "accuracy": 0.36
   },
   {
     "word": "to",
     "left": 425,
-    "top": 595,
-    "accuracy": 0.015365601382018035
+    "top": 457,
+    "accuracy": 0.36
   },
   {
     "word": "it",
     "left": 465,
-    "top": 595,
-    "accuracy": 0.6991135241302737
+    "top": 457,
+    "accuracy": 0.36
   },
   {
     "word": "as",
     "left": 505,
-    "top": 595,
-    "accuracy": 0.5555055913673137
+    "top": 457,
+    "accuracy": 0.27
   },
   {
     "word": "it",
     "left": 545,
-    "top": 595,
-    "accuracy": 0.5971347402716256
+    "top": 457,
+    "accuracy": 0.02
   },
   {
     "word": "shall",
     "left": 585,
-    "top": 595,
-    "accuracy": 0.7005717272324208
+    "top": 457,
+    "accuracy": 0.78
   },
   {
     "word": "",
     "left": 625,
-    "top": 595,
-    "accuracy": 0.7721132270476476
+    "top": 457,
+    "accuracy": 0.45
   },
   {
     "word": "be",
     "left": 25,
-    "top": 633,
-    "accuracy": 0.2518249545232427
+    "top": 485.8,
+    "accuracy": 0.51
   },
   {
     "word": "furnished",
     "left": 65,
-    "top": 633,
-    "accuracy": 0.1593220639263544
+    "top": 485.8,
+    "accuracy": 0.06
   },
   {
     "word": "at",
     "left": 105,
-    "top": 633,
-    "accuracy": 0.8418277436152679
+    "top": 485.8,
+    "accuracy": 0.09
   },
   {
     "word": "the",
     "left": 145,
-    "top": 633,
-    "accuracy": 0.14434915343929333
+    "top": 485.8,
+    "accuracy": 0.05
   },
   {
     "word": "tyme",
     "left": 185,
-    "top": 633,
-    "accuracy": 0.6406233419282754
+    "top": 485.8,
+    "accuracy": 0.62
   },
   {
     "word": "of",
     "left": 225,
-    "top": 633,
-    "accuracy": 0.7541243120788654
+    "top": 485.8,
+    "accuracy": 0.48
   },
   {
     "word": "my",
     "left": 265,
-    "top": 633,
-    "accuracy": 0.4010681730401726
+    "top": 485.8,
+    "accuracy": 0.71
   },
   {
     "word": "deathe,",
     "left": 305,
-    "top": 633,
-    "accuracy": 0.7861762975291633
+    "top": 485.8,
+    "accuracy": 0.15
   },
   {
     "word": "to",
     "left": 345,
-    "top": 633,
-    "accuracy": 0.19721356630872622
+    "top": 485.8,
+    "accuracy": 0.91
   },
   {
     "word": "have",
     "left": 385,
-    "top": 633,
-    "accuracy": 0.8352059797998348
+    "top": 485.8,
+    "accuracy": 0.14
   },
   {
     "word": "and",
     "left": 425,
-    "top": 633,
-    "accuracy": 0.9024817248623984
+    "top": 485.8,
+    "accuracy": 0.69
   },
   {
     "word": "take",
     "left": 465,
-    "top": 633,
-    "accuracy": 0.3949366325910879
+    "top": 485.8,
+    "accuracy": 0.1
   },
   {
     "word": "the",
     "left": 505,
-    "top": 633,
-    "accuracy": 0.3354302766241646
+    "top": 485.8,
+    "accuracy": 0.77
   },
   {
     "word": "same",
     "left": 545,
-    "top": 633,
-    "accuracy": 0.22338037767641428
+    "top": 485.8,
+    "accuracy": 0.34
   },
   {
     "word": "imediatlie",
     "left": 585,
-    "top": 633,
-    "accuracy": 0.24131550049655015
+    "top": 485.8,
+    "accuracy": 0.07
   },
   {
     "word": "",
     "left": 25,
-    "top": 671,
-    "accuracy": 0.2869223640924228
+    "top": 514.6,
+    "accuracy": 0.65
   }
 ];
