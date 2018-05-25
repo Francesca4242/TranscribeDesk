@@ -1,0 +1,15 @@
+.editarea {
+  width: 800px;
+  height: 800px;
+  overflow: scroll;
+  position: relative;
+}
+
+.editarea .docimage {
+  position: absolute;
+} 
+
+.editarea .text {
+  position: absolute;
+  top: 25px;
+}
