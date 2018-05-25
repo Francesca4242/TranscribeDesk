@@ -16,11 +16,11 @@ h1 {
 .editarea {
   width: 75%;
   height: 500px;
-  overflow: hidden;
+  overflow: scroll;
   position: relative;
   margin: auto;
   background-color: white;
-  border-radius: 50px;
+  border-radius: 10px;
 }
 .editarea .docimage {
   position: absolute;
