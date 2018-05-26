@@ -31,3 +31,37 @@ h1 {
   font-family: 'Source Code Pro', monospace;
   font-weight: bold;
 }
+.firstrow{
+	width:100%;
+	overflow:hidden;
+}
+.search{
+	background-image: url('search.jpg');
+	background-size: contain;
+	width:50%;
+	height:50vh;
+	float:left;
+}
+.transcribe{
+	background-color:red;
+	width: 50%;
+	height:50vh;
+	overflow:hidden;
+}
+.secondrow{
+	width:100%;
+	height:50vh;
+	overflow:hidden;
+}
+.about{
+	background-image: url('search.jpg');
+	width:50%;
+	height:50vh;
+	float:left;
+}
+.game{
+	background-color:red;
+	width: 50%;
+	height:50vh;
+	float:left;
+}
