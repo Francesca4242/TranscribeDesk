@@ -29,4 +29,5 @@ h1 {
 .editarea .transcription word {
   position: absolute;
   font-family: 'Source Code Pro', monospace;
+  font-weight: bold;
 }
