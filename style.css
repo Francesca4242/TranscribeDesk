@@ -1,4 +1,4 @@
-body {
+.index {
 	background-image: url('background2.jpg');
 }
 
@@ -35,33 +35,53 @@ h1 {
 	width:100%;
 	overflow:hidden;
 }
+body.home{
+	margin:0;
+
+}
 .search{
 	background-image: url('search.jpg');
 	background-size: contain;
 	width:50%;
 	height:50vh;
 	float:left;
+	opacity:0.5;
+}
+.search:hover{
+	opacity:1.0;
 }
 .transcribe{
 	background-color:red;
 	width: 50%;
 	height:50vh;
 	overflow:hidden;
+	opacity:0.5;
+}
+.transcribe:hover{
+	opacity:1.0;
 }
 .secondrow{
 	width:100%;
 	height:50vh;
 	overflow:hidden;
 }
+
 .about{
 	background-image: url('search.jpg');
 	width:50%;
 	height:50vh;
 	float:left;
+	opacity:0.5;
+}
+.about:hover{
+	opacity:1.0;
 }
 .game{
 	background-color:red;
 	width: 50%;
 	height:50vh;
-	float:left;
+	float:left;opacity:0.5;
+}
+.game:hover{
+	opacity:1.0;
 }
