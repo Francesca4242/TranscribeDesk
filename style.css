@@ -31,64 +31,36 @@ h1 {
   font-family: 'Source Code Pro', monospace;
   font-weight: bold;
 }
-.firstrow{
+.row{
 	width:100%;
 	overflow:hidden;
 }
 body.home{
 	margin:0;
-
+}
+.box{
+	width: 50%;
+	height:50vh;
+	overflow:hidden;
+	opacity:0.5;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.box:hover{
+	opacity:1.0;
 }
 .search{
 	background-image: url('search.jpg');
-	background-size: cover;
-	background-repeat: no-repeat;
-	width:50%;
-	height:50vh;
 	float:left;
-	opacity:0.5;
-}
-.search:hover{
-	opacity:1.0;
 }
 .transcribe{
 	background-image: url('transcribe.jpg');
-	background-size: cover;
-	background-repeat: no-repeat;
-	width: 50%;
-	height:50vh;
-	overflow:hidden;
-	opacity:0.5;
 }
-.transcribe:hover{
-	opacity:1.0;
-}
-.secondrow{
-	width:100%;
-	height:50vh;
-	overflow:hidden;
-}
-
 .about{
 	background-image: url('about.jpg');
-	background-size: cover;
-	background-repeat: no-repeat;
-	width:50%;
-	height:50vh;
 	float:left;
-	opacity:0.5;
-}
-.about:hover{
-	opacity:1.0;
 }
 .game{
 	background-image: url('game.jpg');
-	background-size: cover;
-	background-repeat: no-repeat;
-	width: 50%;
-	height:50vh;
-	float:left;opacity:0.5;
-}
-.game:hover{
-	opacity:1.0;
+	float:left;
 }
