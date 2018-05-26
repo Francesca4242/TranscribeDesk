@@ -41,7 +41,8 @@ body.home{
 }
 .search{
 	background-image: url('search.jpg');
-	background-size: contain;
+	background-size: cover;
+	background-repeat: no-repeat;
 	width:50%;
 	height:50vh;
 	float:left;
