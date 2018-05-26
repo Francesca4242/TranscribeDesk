@@ -52,7 +52,9 @@ body.home{
 	opacity:1.0;
 }
 .transcribe{
-	background-color:red;
+	background-image: url('transcribe.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
 	width: 50%;
 	height:50vh;
 	overflow:hidden;
@@ -68,7 +70,9 @@ body.home{
 }
 
 .about{
-	background-image: url('search.jpg');
+	background-image: url('about.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
 	width:50%;
 	height:50vh;
 	float:left;
@@ -78,7 +82,9 @@ body.home{
 	opacity:1.0;
 }
 .game{
-	background-color:red;
+	background-image: url('game.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
 	width: 50%;
 	height:50vh;
 	float:left;opacity:0.5;
