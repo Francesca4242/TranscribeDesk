@@ -47,6 +47,11 @@ body.home{
 	background-repeat: no-repeat;
 	float:left;
 }
+.box h1{
+	line-height: 50vh;
+	color:white;
+	text-shadow: 0 0 2px;
+}
 .box:hover{
 	opacity:1.0;
 }
