@@ -47,13 +47,24 @@ body.home{
 	background-repeat: no-repeat;
 	float:left;
 }
-.box h1{
+.box a{
 	line-height: 50vh;
 	color:white;
 	text-shadow: 4px 4px 10px black;
+	font-family: 'Marck Script', cursive;
+	margin:auto;
+	color: white;
+	text-align: center;
+	font-size: 250%;
 }
 .box:hover{
 	opacity:1.0;
+}
+a.fill-div {
+    display: block;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
 }
 .search{
 	background-image: url('search.jpg');
