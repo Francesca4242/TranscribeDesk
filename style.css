@@ -45,22 +45,20 @@ body.home{
 	opacity:0.5;
 	background-size: cover;
 	background-repeat: no-repeat;
+	float:left;
 }
 .box:hover{
 	opacity:1.0;
 }
 .search{
 	background-image: url('search.jpg');
-	float:left;
 }
 .transcribe{
 	background-image: url('transcribe.jpg');
 }
 .about{
 	background-image: url('about.jpg');
-	float:left;
 }
 .game{
 	background-image: url('game.jpg');
-	float:left;
 }
