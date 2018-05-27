@@ -139,9 +139,6 @@ let gameOver = () => {
   let timeTakenWidth = ctx.measureText(timeTakenMessage);
   ctx.fillText(timeTakenMessage, (CANVAS_WIDTH/2 - timeTakenWidth.width/2), 250);
 
-  let message2 = 'Click to start again';
-  let messageTextWidth2 = ctx.measureText(message2);
-  ctx.fillText(message2, (CANVAS_WIDTH/2 - messageTextWidth2.width/2), 300);
 
 };
 
@@ -202,7 +199,11 @@ window.onload = ()  => {
   addEventListener('keyup', function (e) {
     delete keysDown[e.keyCode];
   }, false);
-  addEventListener('mousedown', gameRestart);
+  addEventListener('mousedown', function() {
+    if (startScreen) {
+      document.location="gamestage2.html";
+    }
+  });
 
   // generate inital path
   for (let i=0; i<CANVAS_WIDTH/PATH_WIDTH+1; i++) {
