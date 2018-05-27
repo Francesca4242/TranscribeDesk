@@ -109,6 +109,37 @@ a.fill-div {
   width: 0;
   background-color: green;
 }
+#game1{
+	background-image:url('night.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#game2{
+	background-image:url('rocket.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#game3{
+	background-image:url('crash.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height:60vh;
+	width:50%;
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+p{
+	font-family: 'Source Code Pro', monospace;
+  font-weight: bold;
+  color:white;
 
+}
+h2{
+	font-family: 'Faster One', cursive;
+	color:white;
+	font-size: 75px;
+	text-align:center;
+}
 
 
