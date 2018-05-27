@@ -94,33 +94,34 @@ h2 {
 canvas {
   margin: auto;
   display: flex;
-  
+
 }
-.ui-progressbar {
-  position: relative;
+* {
+  box-sizing: border-box;
 }
-#progressbar {
-  background: #f5fffa;
+
+.wrapper {
+  width: 250px;
+  height: auto;
+  background: red;
+  padding: 5px;
+  margin: auto;
 }
-.ui-progressbar .ui-progressbar-value {
-  margin: 0;
-}
-.progress-label {
-  position: absolute;
-  text-align: center;
+
+#text-box {
+  height: 30px;
   width: 100%;
-  color: #cccccc;
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 20px;
 }
-.ui-widget-header {
-  background: #ec2528;
+
+.progress-wrapper {
+  height: 25px;
+  width: 100%;
+  text-align: left;
+  margin: 0 auto;
 }
-p {
-  text-align: center;
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 26px;
-}
-.well {
-  margin-top: 20px;
+
+.progress-bar {
+  height: 100%;
+  width: 0;
+  background-color: green;
 }
