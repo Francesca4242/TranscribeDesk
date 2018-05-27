@@ -14,6 +14,7 @@ $('#stage3').hide();
     // Limit the percentage to 100.
     if (percent > 100) {
       percent = 100;
+     else
       $('#takeoff').hide();
 
    }
