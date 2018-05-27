@@ -188,7 +188,7 @@ let gameRestart = () => {
   dot.y = 295;
 };
 
-function startgame() {
+window.onload = ()  => {
   c = document.getElementById('canvas');
   c.width = CANVAS_WIDTH;
   c.height = CANVAS_HEIGHT;
