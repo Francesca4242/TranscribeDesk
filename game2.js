@@ -1,6 +1,6 @@
 $('#stage2').hide();
 $('#stage3').hide();
-
+$('#takeoff').hide();
 
  var desiredLength = 50; // no jokes please...
 
@@ -12,10 +12,9 @@ $('#stage3').hide();
     // Calculate the percentage
     var percent = (textLength / desiredLength) * 100;
     // Limit the percentage to 100.
-    if (percent > 100) {
+    if (percent >= 100) {
       percent = 100;
-     else
-      $('#takeoff').hide();
+      $('#takeoff').show();
 
    }
 
