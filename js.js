@@ -3,30 +3,33 @@ function rgb(r, g, b){
 }
 
 
+$( init );
 
-
-wordDB.forEach(w => {
-	var e = w.element = w.element || document.createElement('word');
-	e.innerText = w.word;
-	e.style.color = rgb((1-w.accuracy)*255, w.accuracy*255, 0);
-	e.style.left = w.left + 'px';
-  e.style.top = w.top + 'px';
-  e.contentEditable = true;
-  document.getElementById('transcription').appendChild(e);
-})
-
-
-var start = null;
-function animateWords(timestamp) {
-  if (!start) start = timestamp;
-  var progress = (timestamp - start)/3000;
+function init() {
   wordDB.forEach(w => {
-    w.element.style.opacity = (1-progress)*Math.sin(Math.sqrt((w.left*w.left) + (w.top*w.top))/100-progress*20)+progress;
-  });
-  if (progress < 1.0) {
-    window.requestAnimationFrame(animateWords);
+	  var e = w.element = w.element || $("<word></word>");
+	  e.text(w.word);
+	  e.css('color', rgb((1-w.accuracy)*255, w.accuracy*255, 0));
+	  e.css('left', w.left + 'px');
+    e.css('top', w.top + 'px');
+    e.prop('contenteditable',true);
+    $('#transcription').append(e);
+    e.draggable();
+  })
+
+
+  var start = null;
+  function animateWords(timestamp) {
+    if (!start) start = timestamp;
+    var progress = (timestamp - start)/3000;
+    wordDB.forEach(w => {
+      w.element.css('opacity', (1-progress)*Math.sin(Math.sqrt((w.left*w.left) + (w.top*w.top))/100-progress*20)+progress);
+    });
+    if (progress < 1.0) {
+      window.requestAnimationFrame(animateWords);
+    }
+
   }
 
+  window.requestAnimationFrame(animateWords);
 }
-
-window.requestAnimationFrame(animateWords);
