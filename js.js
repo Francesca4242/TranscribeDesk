@@ -36,4 +36,18 @@ function init() {
   }
 
   window.requestAnimationFrame(animateWords);
+  
+  $( "#slider" ).slider();
+  $( "#slider" ).on( "slide", function( event, ui ) {
+    if (ui.value < 50) {
+      $('#transcription').css('opacity', ui.value/50);
+      $('.docimage').css('opacity', 1.0);
+    } else {
+      $('#transcription').css('opacity', 1.0);      
+      $('.docimage').css('opacity', 2.0-ui.value/50);
+    }
+  });
+  $( "#slider" ).slider('value', 50);
+  
+  
 }
