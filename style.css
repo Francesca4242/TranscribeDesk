@@ -2,6 +2,10 @@ body.transcribedesk {
 	background-image: url('background2.jpg');
 }
 
+body.search1 {
+	background-image: url('background2.jpg');
+}
+
 .heading {
 	margin: auto;
 	width: 50%;
@@ -269,12 +273,7 @@ h3{
   background-color: lightgrey;
 
 }
-.result label{
-	color:white;
-}
-.result label:hover{
-	color:black;
-}
+
 
 
 .result img {
