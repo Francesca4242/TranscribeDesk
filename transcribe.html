@@ -7,22 +7,29 @@
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <link href="https://fonts.googleapis.com/css?family=Marck+Script|Source+Code+Pro" rel="stylesheet">
 </head>
-<body class= transcribedesk>
-	<div class=heading>
-		<h1>Transcribe Desk</h1>
-	</div>
-
-  <div id="slider"></div>
-  
-  <div class="editarea">
-    <img class="docimage" src="Document.PNG" />
-    <div class="transcription" id="transcription">
+<body class=transcribedesk>
+  <div id=mainpanel>
+	  <div class=heading>
+		  <h1>Transcribe Desk</h1>
+	  </div>
+	  <p>
+	    Documents shown here have already been transcribed by a computer, but where parts of the transcription are shown in red, the computer isn't sure, and could do with your help to fix it!
+	  </p>
+    <label>
+      Visibility
+    </label>
+    <div id="slider"></div>
+    
+    <div class="editarea">
+      <img class="docimage" src="Document.PNG" />
+      <div class="transcription" id="transcription">
+      </div>
     </div>
-  </div>
-  <div class=navigate>
-  	<button>Previous</button>
-  	<button>Next</button>
+    <div class=navigate>
+    	<button class="ui-button ui-widget ui-corner-all">Previous</button>
+    	<button class="ui-button ui-widget ui-corner-all">Next</button>
 
+    </div>
   </div>
   <script src="worddb.js"></script>
   <script src="js.js"></script>

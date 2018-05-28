@@ -50,4 +50,6 @@ function init() {
   $( "#slider" ).slider('value', 50);
   
   
+  $( "button" ).button();
+  
 }
