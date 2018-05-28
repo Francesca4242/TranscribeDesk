@@ -190,6 +190,9 @@ h3{
 .topnav {
     overflow: hidden;
     background-color: grey;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px black;
+    margin: 20px;
 }
 
 /* Style the links inside the navigation bar */
