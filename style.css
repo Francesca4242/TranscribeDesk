@@ -151,5 +151,17 @@ h2{
 	font-size: 75px;
 	text-align:center;
 }
+#aboutus{
+	background-color:black;
+}
+#colourscale{
+	background:linear-gradient(to right,red,#00FF00);
+	height:10vh;
+	width:25%;
+}
+h3{
+	color:white;
+
+}
 
 
