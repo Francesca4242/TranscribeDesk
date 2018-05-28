@@ -15,6 +15,10 @@ function init() {
     e.prop('contenteditable',true);
     $('#transcription').append(e);
     e.draggable();
+    e.on('dragstop', (ev, ui) => {
+      w.top = ui.position.top;
+      w.left = ui.position.left;
+    });
   })
 
 

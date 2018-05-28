@@ -1,4 +1,4 @@
-wordDB = [
+[
   {
     "word": "In",
     "left": 25,
@@ -13,8 +13,8 @@ wordDB = [
   },
   {
     "word": "name",
-    "left": 105,
-    "top": 25,
+    "left": 90,
+    "top": 27,
     "accuracy": 0.07
   },
   {
@@ -25,14 +25,14 @@ wordDB = [
   },
   {
     "word": "God",
-    "left": 185,
-    "top": 25,
+    "left": 169,
+    "top": 27,
     "accuracy": 0.2
   },
   {
     "word": "Amen,",
-    "left": 225,
-    "top": 25,
+    "left": 212,
+    "top": 29.00000238418579,
     "accuracy": 0.07
   },
   {
@@ -49,74 +49,74 @@ wordDB = [
   },
   {
     "word": "daye",
-    "left": 345,
-    "top": 25,
+    "left": 348,
+    "top": 30,
     "accuracy": 0.58
   },
   {
     "word": "of",
-    "left": 385,
-    "top": 25,
+    "left": 404.0000305175781,
+    "top": 30,
     "accuracy": 0.94
   },
   {
     "word": "November",
-    "left": 425,
-    "top": 25,
+    "left": 436.0000305175781,
+    "top": 34,
     "accuracy": 0.63
   },
   {
     "word": "in",
-    "left": 465,
-    "top": 25,
+    "left": 512.0000305175781,
+    "top": 31,
     "accuracy": 0.97
   },
   {
     "word": "the",
-    "left": 505,
-    "top": 25,
+    "left": 535.0000095367432,
+    "top": 32.66666793823242,
     "accuracy": 0.55
   },
   {
     "word": "yeare",
-    "left": 545,
-    "top": 25,
+    "left": 566.0000305175781,
+    "top": 35,
     "accuracy": 0.46
   },
   {
     "word": "of",
-    "left": 585,
-    "top": 25,
+    "left": 618.0000305175781,
+    "top": 35,
     "accuracy": 0.16
   },
   {
     "word": "our",
-    "left": 625,
-    "top": 25,
+    "left": 641.0000305175781,
+    "top": 35,
     "accuracy": 0.34
   },
   {
     "word": "Lord",
-    "left": 665,
-    "top": 25,
+    "left": 665.0000305175781,
+    "top": 36,
     "accuracy": 0.29
   },
   {
     "word": "God",
-    "left": 705,
-    "top": 25,
+    "left": 709.0000305175781,
+    "top": 33,
     "accuracy": 0.04
   },
   {
     "word": "one",
-    "left": 745,
-    "top": 25,
+    "left": 739.0000305175781,
+    "top": 33,
     "accuracy": 0.3
   },
   {
     "word": "Thow",
-    "left": 785,
-    "top": 25,
+    "left": 773.0000305175781,
+    "top": 32,
     "accuracy": 0.92
   },
   {
@@ -169,56 +169,56 @@ wordDB = [
   },
   {
     "word": "xliiijth",
-    "left": 345,
-    "top": 53.8,
+    "left": 344.00000953674316,
+    "top": 60.79167175292969,
     "accuracy": 0.53
   },
   {
     "word": "yeare",
-    "left": 385,
-    "top": 53.8,
+    "left": 422.00000953674316,
+    "top": 60.79167175292969,
     "accuracy": 0.96
   },
   {
     "word": "of",
-    "left": 425,
-    "top": 53.8,
+    "left": 470.00000953674316,
+    "top": 59.79166889190674,
     "accuracy": 0.78
   },
   {
     "word": "the",
-    "left": 465,
-    "top": 53.8,
+    "left": 495.00000953674316,
+    "top": 61.79167175292969,
     "accuracy": 0.9
   },
   {
     "word": "Raigne",
-    "left": 505,
-    "top": 53.8,
+    "left": 547.0000095367432,
+    "top": 66.79167175292969,
     "accuracy": 0.74
   },
   {
     "word": "of",
-    "left": 545,
-    "top": 53.8,
+    "left": 608.0000095367432,
+    "top": 65.79167175292969,
     "accuracy": 0.82
   },
   {
     "word": "our",
-    "left": 585,
-    "top": 53.8,
+    "left": 641.0000095367432,
+    "top": 63.79167175292969,
     "accuracy": 0.75
   },
   {
     "word": "most",
-    "left": 625,
-    "top": 53.8,
+    "left": 673.0000095367432,
+    "top": 67.79167175292969,
     "accuracy": 0.77
   },
   {
     "word": "gratious",
-    "left": 665,
-    "top": 53.8,
+    "left": 720.0000095367432,
+    "top": 67.79167175292969,
     "accuracy": 0.53
   },
   {
@@ -229,80 +229,80 @@ wordDB = [
   },
   {
     "word": "Ladye",
-    "left": 65,
-    "top": 82.6,
+    "left": 133.9999942779541,
+    "top": 83.58334350585938,
     "accuracy": 0.56
   },
   {
     "word": "Elizabethe,",
-    "left": 105,
-    "top": 82.6,
+    "left": 196.9999942779541,
+    "top": 83.58334350585938,
     "accuracy": 0.65
   },
   {
     "word": "by",
-    "left": 145,
-    "top": 82.6,
+    "left": 306.00000953674316,
+    "top": 84.58334350585938,
     "accuracy": 0.41
   },
   {
     "word": "the",
-    "left": 185,
-    "top": 82.6,
+    "left": 336.00000953674316,
+    "top": 84.58334350585938,
     "accuracy": 0.79
   },
   {
     "word": "grace",
-    "left": 225,
-    "top": 82.6,
+    "left": 372.00000953674316,
+    "top": 84.58334350585938,
     "accuracy": 0.7
   },
   {
     "word": "of",
-    "left": 265,
-    "top": 82.6,
+    "left": 425.00000953674316,
+    "top": 88.58334350585938,
     "accuracy": 0.17
   },
   {
     "word": "god",
-    "left": 305,
-    "top": 82.6,
+    "left": 446.00000953674316,
+    "top": 87.58334350585938,
     "accuracy": 0.96
   },
   {
     "word": "of",
-    "left": 345,
-    "top": 82.6,
+    "left": 492.00000953674316,
+    "top": 90.58334350585938,
     "accuracy": 0.63
   },
   {
     "word": "England",
-    "left": 385,
-    "top": 82.6,
+    "left": 528.0000095367432,
+    "top": 90.58334350585938,
     "accuracy": 0.42
   },
   {
     "word": "France",
-    "left": 425,
-    "top": 82.6,
+    "left": 594.0000095367432,
+    "top": 88.58334350585938,
     "accuracy": 0.59
   },
   {
     "word": "and",
-    "left": 465,
-    "top": 82.6,
+    "left": 655.0000095367432,
+    "top": 90.58334350585938,
     "accuracy": 0.76
   },
   {
     "word": "Ireland",
-    "left": 505,
-    "top": 82.6,
+    "left": 681.0000095367432,
+    "top": 90.58334350585938,
     "accuracy": 0.33
   },
   {
     "word": "Queene",
-    "left": 545,
-    "top": 82.6,
+    "left": 755.0000095367432,
+    "top": 94.58334350585938,
     "accuracy": 0.84
   },
   {
@@ -1667,4 +1667,4 @@ wordDB = [
     "top": 514.6,
     "accuracy": 0.65
   }
-];
+]
