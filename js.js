@@ -50,6 +50,6 @@ function init() {
   $( "#slider" ).slider('value', 50);
   
   
-  $( "button" ).button();
+  $( ".navigate button" ).button().click( x => alert('No more documents yet.  Check back later!'));
   
 }
