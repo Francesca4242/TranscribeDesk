@@ -245,4 +245,40 @@ h3{
     .topnav input[type=text] {
         border: 1px solid #ccc;
     }
+  }
+.row {
+ display: flex;
+ flex-wrap: wrap;
+ padding: 0 2.5%;
 }
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 20%;
+}
+
+.column .result {
+  margin: 8px;
+  vertical-align: middle;
+  background-color: grey;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.column .result:hover {
+  background-color: lightgrey;
+
+}
+.result label{
+	color:white;
+}
+.result label:hover{
+	color:black;
+}
+
+
+.result img {
+  width:100%;
+}
+
+
